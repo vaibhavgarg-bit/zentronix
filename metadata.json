@@ -1,0 +1,6 @@
+{
+  "name": "Zentronix",
+  "description": "A premium electronic gadgets storefront showcasing smartphones, laptops, smart devices, and accessories with a high-fidelity catalog, blog, and contact interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
