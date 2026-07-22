@@ -48,7 +48,7 @@ export const products: Product[] = [
     originalPrice: 84999,
     rating: 4.7,
     reviewsCount: 412,
-    image: 'https://images.unsplash.com/photo-1496181130204-755241524eab?auto=format&fit=crop&w=600&q=80',
+    image: 'https://cdn.cs.1worldsync.com/syndication/mediaserverredirect/1f267907bc8026f3da9c19b31517367a/original.jpg',
     description: 'A masterpiece of engineering for professionals. Thin, featherlight, yet packed with unmatched graphics power and a breathtaking OLED color-accurate screen.',
     featured: true
   },
@@ -162,7 +162,7 @@ export const products: Product[] = [
     originalPrice: 3499,
     rating: 4.7,
     reviewsCount: 3120,
-    image: 'https://images.unsplash.com/photo-1609592424085-f509e53b26c7?auto=format&fit=crop&w=600&q=80',
+    image: 'https://m.media-amazon.com/images/I/71d8msp1v+L._AC_SL1500_.jpg',
     description: 'High-density lithium battery carrying 22.5W super-fast charge capabilities, supporting triple device outputs simultaneously.',
     featured: true
   },
