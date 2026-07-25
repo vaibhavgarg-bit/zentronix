@@ -186,7 +186,7 @@ export const products: Product[] = [
     originalPrice: 2499,
     rating: 4.4,
     reviewsCount: 840,
-    image: 'https://images.unsplash.com/photo-1622445262465-2481c4574875?auto=format&fit=crop&w=600&q=80',
+    image: 'https://m.media-amazon.com/images/I/71c9U4sdMSL._AC_SL1500_.jpg',
     description: '15W rapid wireless charging with advanced temperature controls and anti-slip silicone rings, matching modern Qi-enabled phones and earbuds.',
     featured: false
   }
@@ -215,7 +215,7 @@ export const blogPosts: BlogPost[] = [
     category: 'Laptops',
     publishedDate: 'June 10, 2026',
     readTime: '7 min read',
-    image: 'https://images.unsplash.com/photo-1496181130204-755241524eab?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=600&q=80',
     author: {
       name: 'Rohan Mehta',
       avatar: 'https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?auto=format&fit=crop&w=150&q=80'
@@ -243,7 +243,7 @@ export const blogPosts: BlogPost[] = [
     category: 'Accessories',
     publishedDate: 'May 30, 2026',
     readTime: '4 min read',
-    image: 'https://images.unsplash.com/photo-1622445262465-2481c4574875?auto=format&fit=crop&w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80',
     author: {
       name: 'Vikram Rao',
       avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80'
