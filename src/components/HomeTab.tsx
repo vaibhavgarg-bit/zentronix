@@ -107,7 +107,7 @@ export default function HomeTab({ onAddToCart, setActiveTab }: HomeTabProps) {
               
               <div className="relative bg-white border border-gray-150 rounded-3xl p-4 shadow-xl">
                 <img
-                  src="../../public/images/zenbook-14-pro.jpg"
+                  src="../public/images/zenbook-14-pro.jpg"
                   alt="Zentronix flagship setup"
                   className="rounded-2xl object-cover h-80 w-full shadow-inner"
                   referrerPolicy="no-referrer"
